@@ -1,2 +1,2 @@
 # CitraDigital
-OPERASI Dasar MORFOLOGI PADA CITRA BINER
+Ini adalah repositori untuk pembelajaran OPERASI Dasar MORFOLOGI PADA CITRA BINER
